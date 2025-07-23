@@ -115,11 +115,11 @@ This project demonstrates the power of data science to uncover public sentiment 
 
 ## 🤝 Contact
 
-For questions, feedback, or collaborations, please open an issue or contact \[your email or LinkedIn].
+For questions, feedback, or collaborations, please open an issue or contact my linkedin profile (https://www.linkedin.com/in/mohamed-abdullahi-kasim-12b9a732a/)
 
 ---
 
 ## 📚 References
 
-* [YouTube Video Coverage of the Case (Somali)](link)
+* [YouTube Video Coverage of the Case (Somali)](https://www.youtube.com/watch?v=APfKrSnF20o&t=21s)
 * World Food Programme, FEWS NET, local news reports
